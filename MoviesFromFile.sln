@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesFromFile", "MoviesFromFile\MoviesFromFile.csproj", "{EFA6FB1F-90B9-4F0D-81DA-2A7878487CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrozenChallenge", "FrozenChallenge\FrozenChallenge.csproj", "{613F4C69-F59D-433E-8BA3-23E6FD92417C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA6FB1F-90B9-4F0D-81DA-2A7878487CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA6FB1F-90B9-4F0D-81DA-2A7878487CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA6FB1F-90B9-4F0D-81DA-2A7878487CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA6FB1F-90B9-4F0D-81DA-2A7878487CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613F4C69-F59D-433E-8BA3-23E6FD92417C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613F4C69-F59D-433E-8BA3-23E6FD92417C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613F4C69-F59D-433E-8BA3-23E6FD92417C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613F4C69-F59D-433E-8BA3-23E6FD92417C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAF2D798-5C1A-4D91-BEBC-904722ACF848}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\bin\Debug\netcoreapp3.1\FrozenChallenge.exe
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\bin\Debug\netcoreapp3.1\FrozenChallenge.deps.json
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\bin\Debug\netcoreapp3.1\FrozenChallenge.runtimeconfig.json
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\bin\Debug\netcoreapp3.1\FrozenChallenge.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\bin\Debug\netcoreapp3.1\FrozenChallenge.dll
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\bin\Debug\netcoreapp3.1\FrozenChallenge.pdb
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\obj\Debug\netcoreapp3.1\FrozenChallenge.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\obj\Debug\netcoreapp3.1\FrozenChallenge.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\obj\Debug\netcoreapp3.1\FrozenChallenge.AssemblyInfo.cs
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\obj\Debug\netcoreapp3.1\FrozenChallenge.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\obj\Debug\netcoreapp3.1\FrozenChallenge.dll
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\obj\Debug\netcoreapp3.1\FrozenChallenge.pdb
+C:\Users\opilane\source\repos\MoviesFromFile\FrozenChallenge\obj\Debug\netcoreapp3.1\FrozenChallenge.genruntimeconfig.cache
